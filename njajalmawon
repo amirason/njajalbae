@@ -23,6 +23,7 @@ https://cdnbpp1.useetv.com/joss/14/egg/chunklist_w1805008036_b684100_sleng_12248
 https://cdnbpp1.useetv.com/joss/15/useeinfo/chunklist_w1221836156_b894100_sleng_307412.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="INDI USEETV",USEE PHOTO
 https://cdnbpp1.useetv.com/joss/15/useephoto/chunklist_w330507251_b1344100_sleng_307310.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="INDI USEETV",USEE PHOTO2
 https://cdnmdc1.useetv.com/joss/15/useephoto/chunklist_w1030773525_b894100_sleng_473897.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="INDI USEETV",USEEPRIME
 https://cdnbpp1.useetv.com/joss/15/useeprime/chunklist_w2038021356_b894100_sleng_307392.m3u8
@@ -62,7 +63,9 @@ https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w749991368_b894100_sleng_51
 https://cdnbpp1.useetv.com/joss/14/rtv/chunklist_w56964414_b684100_sleng_121748.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="INDI USEETV",RTV 2
 https://cdn-livetv5.metube.id/hls/rtv_480/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="INDI USEETV",RTV 3
 https://cdnkbl2.useetv.com/joss/14/rtv/chunklist_w160917832_b684100_sleng_8.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="INDI USEETV",RTV 4
 https://cdnkbl2.useetv.com/joss/14/rtv/chunklist_w160917832_b684100_sleng_18.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="INDI USEETV",IDKU
 https://cdnbpp1.useetv.com/joss/15/idku/chunklist_w948048682_b894100_sleng_261801.m3u8
