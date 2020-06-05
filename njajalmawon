@@ -40,7 +40,7 @@ https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="INDI USEETV",GTV
 https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="INDI USEETV",GTV2
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
+http://mag.123tv.to:8080/CpYQmglRcZ/udLer317y4/62243
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="INDI USEETV",INEWS
 https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="INDI USEETV",DIGDAYATV
