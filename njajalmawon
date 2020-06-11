@@ -1227,8 +1227,10 @@ https://delivery.macan.live/stream/id_scm/index.m3u8?token=CLK6e&v=20200308
 https://delivery.macan.live/stream/id_fx/index.m3u8?token=CLK6e&v=20200308
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="SERVER MAL", Channel V. Int
 https://delivery.macan.live/stream/id_channelv/index.m3u8?token=CLK6e&v=20200308
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="SERVER MAL", tvN
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="SERVER MAL", TvN
 https://delivery.macan.live/stream/id_tvn/index.m3u8?token=CLK6e&v=20200308
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="SERVER MAL", TVN Movies
+https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=CLK6e&v=20200308
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="SERVER MAL", Sony GEM TV
 https://delivery.macan.live/stream/id_gem/index.m3u8?token=CLK6e&v=20200308
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="SERVER MAL", AFC
