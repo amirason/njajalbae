@@ -729,6 +729,17 @@ https://vcdnjt.useetv.com/joss/14/euronews/chunklist_w646149720_b684100_sleng_13
 
 
 ###### DRAKOR ######
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="DRAKOR Usee",K Drama
+https://stream.suryaiptv.net/eyeplus/freeview/kqCE0sC03SgvjJ4zZY9F/137_.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="DRAKOR Usee",Drakor Plus
+https://stream.suryaiptv.net/eyeplus/freeview/kqCE0sC03SgvjJ4zZY9F/132_.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="DRAKOR Usee",Sinema Indonesia X
+https://stream.suryaiptv.net/eyeplus/freeview/kqCE0sC03SgvjJ4zZY9F/114_.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="DRAKOR Usee",FTV
+https://stream.suryaiptv.net/eyeplus/freeview/kqCE0sC03SgvjJ4zZY9F/134_.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="DRAKOR Usee",Sinema Indonesia
+https://stream.suryaiptv.net/eyeplus/freeview/kqCE0sC03SgvjJ4zZY9F/124_.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="DRAKOR Usee",K+
 https://cdnbpp1.useetv.com/joss/15/kplus/chunklist_w1548894719_b894100_sleng_262387.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="DRAKOR Usee",CCTV4
