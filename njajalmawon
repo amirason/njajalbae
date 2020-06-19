@@ -551,19 +551,19 @@ https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="MOVIES&ENT", HBO Zone
 http://live.highstream.club/live/HBOZone/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="MOVIES&ENT", HITS Movies
-https://delivery.macan.live/stream/hits_movies/index.m3u8?token=S0s5q 
+https://delivery.macan.live/stream/hits_movies/index.m3u8?token=woYVj 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="MOVIES&ENT",SCM
-https://delivery.macan.live/stream/id_scm/index.m3u8?token=S0s5q 
+https://delivery.macan.live/stream/id_scm/index.m3u8?token=woYVj 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="MOVIES&ENT",SCM Legend
 https://delivery.macan.live/stream/scmlegend/playlist.m3u8?token=S0s5q
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="MOVIES&ENT",Celestial Movies
-https://delivery.macan.live/stream/cm/playlist.m3u8?token=S0s5q
+https://delivery.macan.live/stream/cm/playlist.m3u8?token=woYVj
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="MOVIES&ENT",CCM
-https://delivery.macan.live/stream/ccm/index.m3u8?token=S0s5q
+https://delivery.macan.live/stream/ccm/index.m3u8?token=woYVj
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="MOVIES&ENT",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="MOVIES&ENT", Galaxy Premium
-https://delivery.macan.live/stream/galaxy_premium/playlist.m3u8?token=S0s5q
+https://delivery.macan.live/stream/galaxy_premium/playlist.m3u8?token=woYVj
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="MOVIES&ENT", Zee
 http://45.126.83.51/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="MOVIES&ENT", CinemaWorld
@@ -973,19 +973,19 @@ https://vcdnjt.useetv.com/joss/15/history/chunklist_w54717721_b1344100_sleng_526
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="KNOWLEDGE",CRIME INVESTIGATION
 https://cdnbpp1.useetv.com/joss/15/crimeinvestigation/chunklist_w553225437_b894100_sleng_526198.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qRFn02Gh/logo3.jpg" group-title="KNOWLEDGE", LOVE NATURE 4K
-https://delivery.macan.live/stream/love_nature/index.m3u8?token=S0s5q
+https://delivery.macan.live/stream/love_nature/index.m3u8?token=woYVj
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="KNOWLEDGE",Animal Planet
-https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=S0s5q
+https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=woYVj
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="KNOWLEDGE",Discovery Channel
-https://delivery.macan.live/stream/id_discoverychannel/playlist.m3u8?token=S0s5q
+https://delivery.macan.live/stream/id_discoverychannel/playlist.m3u8?token=woYVj
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png" group-title="KNOWLEDGE",Discovery Asia
-https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=S0s5q 
+https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=woYVj 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_earth_uk.png" group-title="KNOWLEDGE",BBC Earth
-https://delivery.macan.live/stream/bbc_earth/index.m3u8?token=S0s5q
+https://delivery.macan.live/stream/bbc_earth/index.m3u8?token=woYVj
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_uk.png" group-title="KNOWLEDGE",TLC
-https://delivery.macan.live/stream/tlc/index.m3u8?token=S0s5q
+https://delivery.macan.live/stream/tlc/index.m3u8?token=woYVj
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="KNOWLEDGE",HGTV
-https://delivery.macan.live/stream/hgtv/index.m3u8?token=S0s5q
+https://delivery.macan.live/stream/hgtv/index.m3u8?token=woYVj
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/smithsonian-channel-us.png" group-title="KNOWLEDGE",Smithsonian
 https://dl.dropboxusercontent.com/s/ramy8cry4vt2dwu/SMITH.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation_discovery_us.png" group-title="KNOWLEDGE",Investigation Discovery
